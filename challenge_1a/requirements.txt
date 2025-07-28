@@ -1,0 +1,3 @@
+#requirements.txt
+pdfplumber>=0.7.0
+
